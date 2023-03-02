@@ -1,0 +1,11 @@
+I:\244-ИСП\244ИСП\ОАиП\Помораев Николай\ВИСЕЛИЦА\VISELICA\VISELICA\obj\Debug\VISELICA.csproj.AssemblyReference.cache
+I:\244-ИСП\244ИСП\ОАиП\Помораев Николай\ВИСЕЛИЦА\VISELICA\VISELICA\obj\Debug\VISELICA.csproj.SuggestedBindingRedirects.cache
+I:\244-ИСП\244ИСП\ОАиП\Помораев Николай\ВИСЕЛИЦА\VISELICA\VISELICA\obj\Debug\VISELICA.Properties.Resources.resources
+I:\244-ИСП\244ИСП\ОАиП\Помораев Николай\ВИСЕЛИЦА\VISELICA\VISELICA\obj\Debug\VISELICA.csproj.GenerateResource.cache
+I:\244-ИСП\244ИСП\ОАиП\Помораев Николай\ВИСЕЛИЦА\VISELICA\VISELICA\obj\Debug\VISELICA.csproj.CoreCompileInputs.cache
+I:\244-ИСП\244ИСП\ОАиП\Помораев Николай\ВИСЕЛИЦА\VISELICA\VISELICA\bin\Debug\VISELICA.exe.config
+I:\244-ИСП\244ИСП\ОАиП\Помораев Николай\ВИСЕЛИЦА\VISELICA\VISELICA\bin\Debug\VISELICA.exe
+I:\244-ИСП\244ИСП\ОАиП\Помораев Николай\ВИСЕЛИЦА\VISELICA\VISELICA\bin\Debug\VISELICA.pdb
+I:\244-ИСП\244ИСП\ОАиП\Помораев Николай\ВИСЕЛИЦА\VISELICA\VISELICA\obj\Debug\VISELICA.Form1.resources
+I:\244-ИСП\244ИСП\ОАиП\Помораев Николай\ВИСЕЛИЦА\VISELICA\VISELICA\obj\Debug\VISELICA.exe
+I:\244-ИСП\244ИСП\ОАиП\Помораев Николай\ВИСЕЛИЦА\VISELICA\VISELICA\obj\Debug\VISELICA.pdb
